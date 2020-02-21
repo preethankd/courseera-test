@@ -1,0 +1,1 @@
+This folder has the solution for the week 1 assignment
